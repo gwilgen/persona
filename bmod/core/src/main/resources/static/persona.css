@@ -1,0 +1,30 @@
+header {
+    background-color: #023047;
+    color: #8ecae6;
+}
+header li {
+    padding-left: 0.5em;
+}
+.light-blue {
+    color: #8ecae6
+}
+.light-blue:hover {
+    color: #8ecae6;
+    filter: brightness(70%);
+}
+.main-content {
+    margin-top: 1em;
+}
+footer {
+    padding-top: 1em;
+    height: 10vh;
+    min-height: 3em;
+    max-height: 5em;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #023047;
+    color: #8ecae6;
+}
